@@ -1,6 +1,6 @@
 # Privacy Policy for ELO Rankings
 
-**Last Updated: January 2025**
+**Last Updated: July 2025**
 
 ## What information we collect
 
