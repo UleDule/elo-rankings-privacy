@@ -1,3 +1,8 @@
+---
+layout: default
+title: Delete Your Account
+---
+
 # Delete Your Account
 
 To delete your ELO Rankings account and all associated data:
