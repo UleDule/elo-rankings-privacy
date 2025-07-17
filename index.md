@@ -28,11 +28,19 @@ We use this information only to:
 - You can delete your profile picture at any time
 - For account deletion, please contact us (note: game history shared with other users will be retained)
 
+## Delete Your Account
+To delete your ELO Rankings account and all associated data:
+
+Please send an email to: contact.nordicworks@gmail.com
+
+Include:
+- Your registered email address
+- "Delete my account" in the subject line
+
+We will delete your account within 72 hours and send confirmation.
+
 ## Contact
-
-For questions or to delete your data:
-olehenrikutvikler@gmail.com
-
+For questions or other inquiries:
+contact.nordicworks@gmail.com
 ---
-
 *By using ELO Rankings, you agree to this privacy policy.*
